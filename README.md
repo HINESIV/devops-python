@@ -5,16 +5,16 @@ Devops work with python
 
 ## 1.Project Scaffold
 <ol>
-<li href= "https://github.com/HINESIV/devops-python/blob/main/Makefile">[Makefile]</li>
-<li>requirements.txt</li>
-<li>test_library.py</li>
-<li>python_library</li>
+<li href= >[Makefile]</li>(https://github.com/HINESIV/devops-python/blob/main/Makefile)
+<li>requirements.txt</li>(https://github.com/HINESIV/devops-python/blob/main/requirements.txt)
+<li>test_library.py</li>(https://github.com/HINESIV/devops-python/blob/main/test_hello.py)
+<li>python_library</li>(https://github.com/HINESIV/devops-python/tree/main/devopslib)
 <li>Dockerfile</li>
 <li>command-line-tool</li>
 <li>Microservice</li>
 </ol>
 
-Create a Cloud-base development environemnt see below: 
+Create a Cloud-base development environment with any tools(see below): 
 
 ###Colab Notebook
 This is an example of a simple network task[colab](https://github.com/HINESIV/devops-python/blob/main/Start_Python.ipynb
@@ -23,6 +23,9 @@ This is an example of a simple network task[colab](https://github.com/HINESIV/de
 
 ### AWS-Cloud9, Azure Cloudshell, Google Cloudshell
 
+1. Create a virtualenv: 'virtual ~/.venv'
+2. edit '.bashrc' file 'source ~/.venv/bin/activate'
+3. clone project then run 'make all'
 
 
 
