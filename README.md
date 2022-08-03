@@ -2,19 +2,23 @@
 Devops work with python
 
 
-#1.project scaffold
+## 1.Project Scaffold
 
 *Create Cloud-base development environemnt 
-##Colab Notebook
-This is an example of a simple network task[colab]()
-##Codespaces
-##AWS-Cloud9, Azure Cloudshell, Google Cloudshell
+
+###Colab Notebook
+This is an example of a simple network task[colab](https://github.com/HINESIV/devops-python/blob/main/Start_Python.ipynb
+
+
+### Codespaces
+
+### AWS-Cloud9, Azure Cloudshell, Google Cloudshell
 
 
 
 
-##Build Command-Lines Tools
+## 2. Build Command-Lines Tools
 
-##Build it Microservices
+## 3. Build it Microservices
 
-#Setup Containerized Continous-Delivery-
+## 4. Setup Containerized Continous-Delivery-
