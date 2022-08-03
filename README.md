@@ -5,7 +5,7 @@ Devops work with python
 
 ## 1.Project Scaffold
 <ol>
-<li>Makefile(https://github.com/HINESIV/devops-python/blob/main/Makefile)</li>
+<li>[Makefile](https://github.com/HINESIV/devops-python/blob/main/Makefile)</li>
 <li>requirements.txt</li>
 <li>test_library.py</li>
 <li>python_library</li>
