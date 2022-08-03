@@ -3,12 +3,20 @@ Devops work with python
 
 
 ## 1.Project Scaffold
+<ol>
+<li>Makefile</li>
+<li>requirements.txt</li>
+<li>test_library.py</li>
+<li>python_library</li>
+<li>Dockerfile</li>
+<li>command-line-tool</li>
+<li>Microservice</li>
+</ol>
 
-*Create Cloud-base development environemnt 
+Create a Cloud-base development environemnt see below: 
 
 ###Colab Notebook
 This is an example of a simple network task[colab](https://github.com/HINESIV/devops-python/blob/main/Start_Python.ipynb
-
 
 ### Codespaces
 
