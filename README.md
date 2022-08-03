@@ -6,6 +6,7 @@ Devops work with python
 
 *Create Cloud-base development environemnt 
 ##Colab Notebook
+This is an example of a simple network task[colab]()
 ##Codespaces
 ##AWS-Cloud9, Azure Cloudshell, Google Cloudshell
 
